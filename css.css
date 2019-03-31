@@ -1,0 +1,54 @@
+/* CSS Document */
+
+body{
+padding:0px;
+margin:0px;
+background-color:#666666;
+}
+pre{
+padding:0px;
+margin:0px;
+}
+.menu{
+font-family:Tahoma;
+font-size:11px;
+font-weight:bold;
+color:#64A2E1;
+line-height:33px;
+}
+.menu a{
+color:#64A2E1;
+text-decoration:none;
+}
+.menu a:hover{
+color:#8c8680;
+text-decoration:none;
+}
+.body{
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:11px;
+color:#808080;
+}
+.body a{
+color:#025BBF;
+text-decoration:none;
+}
+.body a:hover{
+color:#FF6600;
+text-decoration:none;
+}
+.footer{
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:10px;
+text-align:center;
+color:#808080;
+}
+.footer a{
+color:#808080;
+text-decoration:none;
+}
+.footer a:hover{
+color:#A2A3A4;
+text-decoration:none;
+}
+.style1 {color: #0066CC}
